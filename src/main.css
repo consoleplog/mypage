@@ -1,0 +1,62 @@
+body{
+background-image: url('http://odu1wcg68.bkt.clouddn.com/bg10.jpg');
+padding: 0;
+margin: 0;
+font-family: Microsoft Yahei;
+box-sizing: border-box;
+}
+.boxout{
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 1.5em;
+    color:#fff;
+    width: 40vw;
+    margin: 0 auto;
+    padding:20px 0;
+
+}
+.container {
+width: 40vw;
+
+}
+.container h1 {
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+  text-align: center;
+}
+.container p{
+  text-align: center;
+
+}
+.logp{
+  line-height: 40px;
+  margin: 0;
+  border-bottom: 1px solid #fff;
+}
+.Nav {
+  display: inline;
+  text-align: center;
+  border-radius: 5px;
+}
+.Nav a{
+  padding: 0 10px;
+  margin-top:10px;
+  line-height: 30px;
+  text-decoration: none;
+}
+.Nav :hover{
+  background-color: #fff;
+  color:black;
+}
+.btn {
+  width: 32px;
+  height: 32px;
+  background-image: url('http://odu1wcg68.bkt.clouddn.com/simple1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: absolute;
+  top:5px;
+  right:5px;
+
+}
